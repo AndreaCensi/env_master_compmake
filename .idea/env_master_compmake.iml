@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/contracts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/compmake/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/deploy" />
+      <excludeFolder url="file://$MODULE_DIR$/src/compmake/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/src/compmake/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/src/compmake/src/compmake.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/src/contracts/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/src/contracts/src/PyContracts.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/src/contracts/src/contracts-py3k-test" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7.3 virtualenv at /data/work/scm/environments/env_master_compmake/deploy" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
