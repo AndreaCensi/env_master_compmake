@@ -1,3 +1,4 @@
 deploy/
 environment.sh
 out-example_dynamic
+.compmake_history.txt
